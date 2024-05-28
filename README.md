@@ -13,7 +13,7 @@ Examples of invalid sets: [“1111”, “1222”, “3333”], [“1211”, “
 
 ## Usage
 - `pip install -r requirements.txt`
-- `python main.py`
+- `python main.py` or `python3 main.py`
 
 ## Tests
 Valid Set 1:
