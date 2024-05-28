@@ -58,7 +58,6 @@ curl -X POST "http://127.0.0.1:8080/find_all_valid_sets"\
 
 
 Bonus Valid Set:
-Invalid Set 2:
 ```sh 
 curl -X POST "http://127.0.0.1:8080/find_all_valid_sets"\
   -H "Content-Type: application/json"\
